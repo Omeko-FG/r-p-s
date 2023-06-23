@@ -1,3 +1,4 @@
+![ezgif com-video-to-gif (1)](https://github.com/Omeko-FG/rock-paper-scrosis-PURE-JS-CSS/assets/119002766/d2180e03-6733-40a5-b274-2a618d9a6644)
 <H1>rock-paper-scrosis<H1/><BR/>
 1. PUSE JS VE CSS İLE YAPILMIŞ BİR OYUN.<BR/>
 2. KULLANICININ SEÇTİĞİ OLAY İLE BİLGİSAYARIN RANDOM SEÇTİĞİ 2 OLAY KARŞILAŞTIRILIR.<BR/>
